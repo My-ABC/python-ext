@@ -1,5 +1,5 @@
 #define PY_SSIZE_T_CLEAN
-#include "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.752.0_x64__qbz5n2kfra8p0\include\Python.h"
+#include <Python.h>
 //#include <Python.h>
 
 static PyObject * ArgsError; // 定义错误对象
