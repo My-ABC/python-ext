@@ -25,5 +25,7 @@ print(test.add(1, 2))  # 输出 3
 python -m test
 ```
 Enter first number: 1
+
 Enter second number: 2
+
 The sum of 1 and 2 is: 3
